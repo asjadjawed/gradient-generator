@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico|Teko" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Linear Gradient Generator</title>
+</head>
+<body>
+  <div id="control-board">
+    <h1>Gradient Generator</h1>
+    <div class="control">
+      <label for="angle">Angle: </label>
+      <span><sup>0&deg;</sup><input type="range" name="angle" id="angle" min=0 max=360 step="1"> <sup>360&deg;</sup></span>
+    </div>
+    <div class="control">
+      <label for="color1">Color 1: </label>
+      <input type="color" name="color1" id="color1">
+    </div>
+    <div class="control">
+      <label for="color1">Color 2: </label>
+      <input type="color" name="color2" id="color2">
+    </div>
+    <h3></h3>
+    <button>Generate Gradient!</button>
+  </div>
+
+  <script src="./main.js"></script>
+</body>
+</html>

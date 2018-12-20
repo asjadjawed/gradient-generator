@@ -1,0 +1,20 @@
+{
+  "name": "gradient-generator",
+  "version": "1.0.0",
+  "description": "Live Version: [https://asjadjawed.github.io/gradient-generator/](https://asjadjawed.github.io/gradient-generator/)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asjadjawed/gradient-generator.git"
+  },
+  "keywords": [],
+  "author": "Asjad Jawed Siddiqui Qadri <asjadjawed@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asjadjawed/gradient-generator/issues"
+  },
+  "homepage": "https://github.com/asjadjawed/gradient-generator#readme"
+}

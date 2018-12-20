@@ -6,7 +6,7 @@ A Linear Gradient Generator
 
 Uses:
 
-* HTML5
-* Google Fonts
-* CSS - Flexbox
-* JS
+- HTML5
+- Google Fonts
+- CSS - Flexbox
+- JS

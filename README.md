@@ -1,6 +1,6 @@
 # Gradient Generator
 
-Live Version: [https://asjadjawed.github.io/gradient-generator/](https://asjadjawed.github.io/gradient-generator/)
+Live Version: [https://asjad.dev/gradient-generator/](https://asjad.dev/gradient-generator/)
 
 A Linear Gradient Generator
 
